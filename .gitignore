@@ -1,0 +1,6 @@
+ipc_project
+pipe/pipe_demo
+fifo/fifo_reader
+fifo/fifo_writer
+fifo/myfifo
+*.o
